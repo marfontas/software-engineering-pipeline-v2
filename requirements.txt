@@ -1,5 +1,2 @@
 pytest
 flake8
-git add .
-git commit -m "Initial calculator project"
-git push origin main
